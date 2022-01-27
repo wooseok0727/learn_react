@@ -1,4 +1,4 @@
-export const prototypes = [
+export const prototypesData = [
   {
     id: 'pp-01',
     title: 'Kids-story',
