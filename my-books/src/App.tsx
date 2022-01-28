@@ -1,4 +1,3 @@
-import React from 'react'
 import { ErrorBoundary } from 'react-error-boundary'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Add from './pages/Add'
